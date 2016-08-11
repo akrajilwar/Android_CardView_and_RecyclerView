@@ -40,4 +40,5 @@ Add the <android.support.v7.widget.CardView> widget to your layout and place oth
 
     </LinearLayout>
     
-    [Read full tutorial at Android Learning website](http://www.androidlearning.in/android-working-card-view-recycler-view/)
+    
+[Read full tutorial at Android Learning website](http://www.androidlearning.in/android-working-card-view-recycler-view)
